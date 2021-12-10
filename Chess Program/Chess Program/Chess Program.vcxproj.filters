@@ -15,8 +15,58 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="helloworld.cpp">
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\bishop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\rook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\king.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\knight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\pawn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\piece.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\queen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\bishop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\rook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\knight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\pawn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\piece.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\queen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\king.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

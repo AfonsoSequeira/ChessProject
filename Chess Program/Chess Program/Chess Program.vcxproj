@@ -139,7 +139,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="helloworld.cpp" />
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\bishop.cpp" />
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\board.cpp" />
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\king.cpp" />
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\knight.cpp" />
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\main.cpp" />
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\pawn.cpp" />
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\piece.cpp" />
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\queen.cpp" />
+    <ClCompile Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\rook.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\bishop.h" />
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\board.h" />
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\king.h" />
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\knight.h" />
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\pawn.h" />
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\piece.h" />
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\queen.h" />
+    <ClInclude Include="..\..\..\..\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\rook.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

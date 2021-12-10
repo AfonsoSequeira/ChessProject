@@ -1,2 +1,16 @@
-﻿  helloworld.cpp
+﻿  bishop.cpp
+  board.cpp
+C:\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\board.cpp(873,20): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\board.cpp(820,23): warning C4101: 'k': unreferenced local variable
+C:\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\board.cpp(820,30): warning C4101: 'l': unreferenced local variable
+C:\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\board.cpp(820,16): warning C4101: 'j': unreferenced local variable
+C:\Users\Afonso.sequeira\OneDrive - Entain Group\Desktop\ChessProjectOld\board.cpp(820,9): warning C4101: 'i': unreferenced local variable
+  king.cpp
+  knight.cpp
+  main.cpp
+  pawn.cpp
+  piece.cpp
+  queen.cpp
+  rook.cpp
+  Generating Code...
   Chess Program.vcxproj -> C:\PersonalProjects\Chessproject\Chess Program\x64\Debug\Chess Program.exe
